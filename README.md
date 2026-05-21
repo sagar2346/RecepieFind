@@ -1,4 +1,4 @@
-# 🍳 GourmetFind - Premium Recipe Finder & Meal Planner
+#  GourmetFind - Premium Recipe Finder & Meal Planner
 
 A highly polished, full-stack web application built using **Node.js, Express, React (Vite), React Router, and Axios**, proxying **TheMealDB API**. 
 
@@ -6,7 +6,7 @@ This application offers 10 complete and custom-designed pages with a beautiful r
 
 ---
 
-## 🎨 Design System & Colors
+##  Design System & Colors
 The application is styled using premium, flexible **Vanilla CSS Variables** adhering to the following visual rules:
 - **Background**: White (`#FFFFFF`)
 - **Primary Color**: Deep Blue (`#1E3A5F`) for brand headers, buttons, navigation links, and structural highlights.
@@ -17,7 +17,7 @@ The application is styled using premium, flexible **Vanilla CSS Variables** adhe
 
 ---
 
-## 🚀 Key Features & Pages
+## Key Features & Pages
 1. **Home** — Elegant hero section, dynamic search bar, and custom-loaded featured recipes grid.
 2. **Search Results** — Dynamic query-based results page showing loaded cards matching search parameters.
 3. **Recipe Detail** — Renders rich ingredients and measurement cards, dynamic instructions steps list, action strip, and responsive YouTube video guides.
@@ -31,14 +31,14 @@ The application is styled using premium, flexible **Vanilla CSS Variables** adhe
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 * **Frontend**: React 18, Vite, React Router v6, Axios, Google Fonts.
 * **Backend**: Express, Cors, Axios (Proxy layer calls to TheMealDB API), Dotenv, Nodemon.
 * **Storage**: Backend Transient In-Memory arrays and day-keyed maps. (Zero-DB setup for rapid, simple onboarding).
 
 ---
 
-## 📦 Getting Started & Installation
+##  Getting Started & Installation
 
 Follow these easy steps to get GourmetFind running locally on your computer:
 
